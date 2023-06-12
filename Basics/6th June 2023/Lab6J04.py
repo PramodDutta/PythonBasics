@@ -7,3 +7,6 @@
 my_string = "This is Pramod!"
 print(len(my_string))
 print(my_string[13:2:-1])  # I need check #2
+
+
+print(~5)
